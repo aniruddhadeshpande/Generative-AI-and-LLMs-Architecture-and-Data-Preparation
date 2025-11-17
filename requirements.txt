@@ -1,1 +1,6 @@
 requests
+transformers==4.42.1
+tensorflow
+sentencepiece
+numpy==1.26
+ipykernel
