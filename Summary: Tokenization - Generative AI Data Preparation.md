@@ -14,6 +14,18 @@ The program responsible for breaking down text into individual tokens is called 
 
 ![Example of Tokenization Breaking Sentence into Individual Tokens](assets/d6375ca3-486e-4b58-b995-ae47bd15b430.png)
 
+
+* [`nltk`](https://www.nltk.org/) or natural language toolkit, will be employed for data management tasks. It offers comprehensive tools and resources for processing natural language text, making it a valuable choice for tasks such as text preprocessing and analysis.
+
+* [`spaCy`](https://spacy.io/) is an open-source software library for advanced natural language processing in Python. spaCy is renowned for its speed and accuracy in processing large volumes of text data.
+
+* [`BertTokenizer`](https://huggingface.co/docs/transformers/main_classes/tokenizer#berttokenizer) is part of the Hugging Face Transformers library, a popular library for working with state-of-the-art pre-trained language models. BertTokenizer is specifically designed for tokenizing text according to the BERT model's specifications.
+
+* [`XLNetTokenizer`](https://huggingface.co/docs/transformers/main_classes/tokenizer#xlnettokenizer) is another component of the Hugging Face Transformers library. It is tailored for tokenizing text in alignment with the XLNet model's requirements.
+
+* [`torchtext`](https://pytorch.org/text/stable/index.html) It is part of the PyTorch ecosystem, to handle various natural language processing tasks. It  simplifies the process of working with text data and provides functionalities for data preprocessing, tokenization, vocabulary management, and batching.
+
+
 Example of Tokenization Breaking Sentence into Individual Tokens
 
 ### Three Primary Tokenization Methods
