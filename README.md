@@ -6,3 +6,6 @@ pip install --index-url https://download.pytorch.org/whl/cpu   torch==2.8.0+cpu 
 
 python -m spacy download en_core_web_sm
 python -m spacy download de_core_news_sm
+python -m spacy download en_core_web_sm -qq
+python -m spacy download de_core_news_sm -qq
+python -m spacy download fr_core_news_sm -qq

@@ -12,3 +12,6 @@ scikit-learn
 torch==2.2.2
 torchtext==0.17.2
 numpy==1.26.0
+torchdata==0.8.0
+portalocker>=2.0.0
+pandas
