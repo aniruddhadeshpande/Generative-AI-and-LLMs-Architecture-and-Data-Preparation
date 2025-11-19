@@ -4,3 +4,11 @@ tensorflow
 sentencepiece
 numpy==1.26
 ipykernel
+nltk
+transformers==4.42.1
+sentencepiece
+spacy
+scikit-learn
+torch==2.2.2
+torchtext==0.17.2
+numpy==1.26.0
